@@ -6,13 +6,5 @@ positive or good.
 Appreciation is intentionally left undefined.
 
 
-
-Objections/Questions:
-
------------------------------
-Nurşen: Is comfort beautiful?
------------------------------
-
-What kinds of things can be beautiful?  Visual, auditory, intellectual?  Can
-physical sensation be beautiful?  What about for the blind/deaf?  Can tastes be
-beautiful?  What about emotions?
+Note that I make a distinction between positive/good and pleasurable.  See
+pleasure.txt.
