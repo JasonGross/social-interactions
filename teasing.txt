@@ -1,1 +1,23 @@
-flirting.txt
+[Positive] Teasing is playful banter.
+
+To quote Jane McGonigal from ``Reality is Broken'':
+
+> Teasing each other, recent scientific research has shown, is one of the
+> fastest and most effective ways to intensify our positive feelings for each
+> other.  Dacher Keltner, a leading researcher of prosocial emotions at the
+> University of California, has conducted experiments on the psychological
+> benefits of teasing, and he believes that teasing plays an invaluable role in
+> helping us form and maintain positive relationships.
+>
+> ``The tease is like a social vaccine,'' Keltner explains. ``It stimulates the
+> recipient's emotional system.'' Teasingly trash-talking allows us to provoke
+> each other's negative emotions in a very mild way---we stimulate a very small
+> amount of anger or hurt or embarrassment. This tiny provocation has two
+> powerful effects. First, it confirms trust: the person doing the teasing is
+> demonstrating the capacity to hurt, but simultaneously showing that the
+> intention is not to hurt. Just like a dog might play-bite another dog to show
+> that it wants to be friends, we bare our teeth to each other in order to
+> remind each other that we could, but never really would, hurt each other.
+> Conversely, by allowing someone else to tease us, we confirm our willingness
+> to be in a vulnerable position. We are actively demonstrating our trust in the
+> other person's regard for our emotional well-being. 
