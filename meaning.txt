@@ -1,0 +1,3 @@
+Meaning is that by which you dereference mental pointers.
+
+See pointer.txt for an explanation of my use of 'pointer'.

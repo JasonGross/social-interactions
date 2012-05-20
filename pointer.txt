@@ -1,0 +1,18 @@
+In C, there's a data type called a "pointer". Let's say you have a
+gigantic object (like, an entire deck of cards) sitting somewhere in
+memory, and you don't want to have to make a copy of the object (copy
+every single card) when you want to know how many jacks there are. So
+instead of copying the entire object and sticking the copy in the
+place that your method/function looks for the object, you pass around
+an arrow that says "the deck of cards is sitting over there!" . The
+arrow is called a pointer. And when you want to look at where "there"
+is, and do something to/with the stuff over "there", that's called
+"dereferencing a pointer". ("pointer" and "reference" are almost the
+same thing)
+
+When I look at the letters 'asdfasdf', I see the shapes of the
+letters, but they don't mean anything to me; 'asdfasdf' does not point
+to any concept in my head, and so I cannot dereference it.  When I
+look at 'Jason', on the other hand, I can dereference the image of the
+letters, and replace the image of the letters 'J-a-s-o-n' with my
+concept of myself.
