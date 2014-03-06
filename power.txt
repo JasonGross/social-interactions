@@ -5,6 +5,8 @@ heard, among others, seem to have this common root of exerting one's
 will on the world.
 
 In me this manifests in an enjoyment of building things and of
-accomplishing seemingly impossible tasks.
+accomplishing seemingly impossible tasks, such as computing the
+Ackermann function in TeX, proving unstatable theorems in Coq, and
+smashing nearly perfect abstraction barriers.
 
-See also: frustration
+See also frustration.txt.
