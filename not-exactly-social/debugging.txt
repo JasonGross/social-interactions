@@ -1,0 +1,4 @@
+Debugging consists in repeatedly asking:
+First: Do you understand what the problem is?
+If not, then: What is the most relevant bit of information that you're
+  not sure about, and how can you get that information?
